@@ -1,0 +1,3 @@
+/*               /*/index.html               200
+/menu/*          /menu/*/index.html          200
+/images/:slug    /images/:slug/index.html    200
